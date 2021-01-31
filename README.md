@@ -1,11 +1,13 @@
 # TAMUHack_2021
 AeroCheck -- American Airlines Challenge
+This project was created in conjunction with Jaden Banze, Gregory Petri, and Angel Hernandez during the 2021 tamuhack.
 
 # AeroCheck
 
 ## Introduction
 
 > Due to COVID panic and restrictions, airline sales are down, flight attendant stress is high - even for their own safety, and the public seems to need an incentive to fly. That's where AeroCheck comes in...
+AeroCheck helps mitigate the stress caused on board by passengers not wearing masks, and allows others to benefit for wearing their mask for long durations of time. AeroCheck uses facial detection, through TensorFlow and openCV, to determine if a user is wearing their mask. Those who are non-compliant are reported to the flight attendant, and lose out on possible reward points.
 
 ## Code Samples
 
